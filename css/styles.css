@@ -106,6 +106,7 @@ body {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+
 }
 
 .photo-gallery img {
